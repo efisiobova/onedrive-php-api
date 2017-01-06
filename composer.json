@@ -1,7 +1,7 @@
 {
-    "name":              "Efisiobova/onedrive-php-sdk",
-    "description":       "OneDrive SDK for PHP.",
-    "homepage":          "https://github.com/Efisiobova/onedrive-php-sdk",
+    "name":              "Efisiobova/onedrive-php-api",
+    "description":       "OneDrive library for PHP.",
+    "homepage":          "https://github.com/Efisiobova/onedrive-php-api",
     "license":           "GPL-3.0",
     "prefer-stable":     true,
     "minimum-stability": "dev",
@@ -10,21 +10,21 @@
         "Efisiobova",
         "onedrive",
         "php",
-        "sdk"
+        "api"
     ],
 
     "author": [
         {
-            "name":     "Christophe Vidal",
-            "homepage": "http://www.Efisiobova.com/"
+            "name":     "Efisio Bova",
+            "homepage": "https://github.com/efisiobova/"
         }
     ],
 
     "support": {
-        "email":  "support@Efisiobova.com",
-        "issues": "https://github.com/Efisiobova/onedrive-php-sdk/issues",
-        "wiki":   "https://github.com/Efisiobova/onedrive-php-sdk/wiki",
-        "source": "https://github.com/Efisiobova/onedrive-php-sdk"
+        "email":  "efisio.bova@gmail.com",
+        "issues": "https://github.com/Efisiobova/onedrive-php-api/issues",
+        "wiki":   "https://github.com/Efisiobova/onedrive-php-api/wiki",
+        "source": "https://github.com/Efisiobova/onedrive-php-api"
     },
 
     "require": {
