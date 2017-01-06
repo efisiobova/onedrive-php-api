@@ -1,7 +1,7 @@
 {
-    "name":              "Efisiobova/onedrive-php-api",
+    "name":              "efisiobova/onedrive-php-api",
     "description":       "OneDrive library for PHP.",
-    "homepage":          "https://github.com/Efisiobova/onedrive-php-api",
+    "homepage":          "https://github.com/efisiobova/onedrive-php-api",
     "license":           "GPL-3.0",
     "prefer-stable":     true,
     "minimum-stability": "dev",
